@@ -1,4 +1,4 @@
-<h1>Hi, Hello, and welcome I'm J'kya, an <a href="https://linkedin.com/in//jkya-burley-3975b5274">IT Professional</a>☺</h1>
+<h1>Hi, Hello, and welcome I'm kya, an <a href="https://linkedin.com/in//jkya-burley-3975b5274">IT Professional</a>☺</h1>
 <h2>👩🏾‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
